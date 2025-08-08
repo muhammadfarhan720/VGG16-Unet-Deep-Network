@@ -12,4 +12,4 @@ This project deploys a special Unet architecture for image segmentation where ba
 
 
 
-[Only UNET architecture](https://github.com/muhammadfarhan720/VGG16-Unet-Deep-Network/blob/main/only_unet.py))
+[Only UNET architecture](https://github.com/muhammadfarhan720/VGG16-Unet-Deep-Network/blob/main/only_unet.py)
