@@ -11,5 +11,5 @@ This project deploys a special Unet architecture for image segmentation where ba
 
 
 
-[This one is only for a regular UNET architecture](
-[View the Notebook](https://github.com/muhammadfarhan720/VGG16-Unet-Deep-Network/blob/main/UNET_Road_Network.ipynb))
+
+[Only UNET architecture](https://github.com/muhammadfarhan720/VGG16-Unet-Deep-Network/blob/main/only_unet.py))
