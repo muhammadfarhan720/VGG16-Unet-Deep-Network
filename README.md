@@ -4,7 +4,7 @@ This project deploys a special Unet architecture for image segmentation where ba
 
 # Models
 
---> **UNET_Road_Network** : This is the final working UNET model that can perform road extraction from sattelite images using image segmentation with 99% pixel accuracy. 
+--> **UNET_Road_Network** : This is the final UNET model that can perform road extraction from sattelite images using image segmentation from the resized images generated from "image preprocessor.py" with 99% pixel accuracy. 
 
 
 [Final Road Extractor Deep Network](https://github.com/muhammadfarhan720/VGG16-Unet-Deep-Network/blob/main/UNET_Road_Network.ipynb)
