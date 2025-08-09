@@ -7,7 +7,7 @@ This project deploys a special Unet architecture for image segmentation where ba
 --> **UNET_Road_Network** : This is a UNET model that can perform road extraction from sattelite images using image segmentation from the resized images generated from "image preprocessor.py" with 99% pixel accuracy. 
 
 
-[Final Road Extractor Deep Network](https://github.com/muhammadfarhan720/VGG16-Unet-Deep-Network/blob/main/UNET_Road_Network.ipynb)
+[Road Extractor Deep Network](https://github.com/muhammadfarhan720/VGG16-Unet-Deep-Network/blob/main/UNET_Road_Network.ipynb)
 
 
 
@@ -17,4 +17,4 @@ This project deploys a special Unet architecture for image segmentation where ba
 
 
 
-[VGG16 Encoder Decoder](https://github.com/muhammadfarhan720/VGG16-Unet-Deep-Network/blob/main/vgg16_encoder_decoder.py)
+[VGG16 Encoder Decoder- UNET](https://github.com/muhammadfarhan720/VGG16-Unet-Deep-Network/blob/main/vgg16_encoder_decoder.py)
