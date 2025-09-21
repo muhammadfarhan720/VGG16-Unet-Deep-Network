@@ -1,6 +1,9 @@
 # VGG16-Unet
 This project deploys a special Unet architecture for image segmentation where backbone of the encoder branch of U-net was loaded with VGG16 pretrained model. It also compares the performance of pure UNET vs VGG-16 Encoder-UNET architecture for the case of road extraction from sattelite images.
 
+<img width="1121" height="466" alt="image" src="https://github.com/user-attachments/assets/32dc8774-dd99-4598-b170-acbdb7089565" />
+
+
 
 # Models
 
